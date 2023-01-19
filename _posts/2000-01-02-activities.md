@@ -7,7 +7,7 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-# A hackathon for MRI professionals
+# A hackathon for comparable MRI
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
 
@@ -18,8 +18,6 @@ titleclr: '#428bca'
 <center><p style ="text-align: center; font-weight: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
 
 <br><br>
-
-
 
 <div class="row partners">
 {% for item in site.data.projects.projects %}

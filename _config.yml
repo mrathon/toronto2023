@@ -10,10 +10,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "MRathon 2019"
-keywords:    "MRI, hackathon, 2019, montreal, polytechnique, mrathon"
+title:       "MRathon 2023"
+keywords:    "MRI, hackathon, 2023, toronto, mrathon"
 description: "MRI hackathon."
-source_link: "https://github.com/mrathon"
+source_link: "https://github.com/mrathon/toronto2023"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
@@ -24,7 +24,7 @@ colors:
   white:        '#eaeaea'
   rwhite:       '#BBCBCB'
   about:        '#2e2e2e'
-  intro:        '#428bca'
+  intro:        '#1e2834'
   activities:   '#ed7950'
   saturday-one: '#66b266'
   monday:       '#598d78'
