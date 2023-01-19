@@ -1,0 +1,45 @@
+---
+safe: true
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "MRathon 2019"
+keywords:    "MRI, hackathon, 2019, montreal, polytechnique, mrathon"
+description: "MRI hackathon."
+source_link: "https://github.com/mrathon"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:
+  
+
+### template colors, used site-wide via css ###
+colors:
+  white:        '#eaeaea'
+  rwhite:       '#BBCBCB'
+  about:        '#2e2e2e'
+  intro:        '#428bca'
+  activities:   '#ed7950'
+  saturday-one: '#66b266'
+  monday:       '#598d78'
+  tuesday:      '#578e77'
+  wednesday:    '#4f7c80'
+  thursday:     '#486a89'
+  friday:       '#415992'
+  saturday-two: '#39479b'
+  contacts:     '#3035A4'
+  nwclr:        '#C1DFF0'
+  clrnew: '#ffffff'
+  party: '#1c1419'
+
+kramdown:
+  auto_ids:  false
+
+sass:
+  sass_dir: stylesheets/_sass/

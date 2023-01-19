@@ -1,0 +1,42 @@
+projects:
+  - id: "p-1"
+    title: "ISMRM Raw Data Format Viewer"
+    image:  ismrmrd.png
+    description: Quantitative MRI under one umbrella
+    url: https://github.com/mrathon/idea-pitches/issues/4
+
+  - id: "p-2"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+    url: https://github.com/mrathon/idea-pitches/issues/1
+
+  - id: "p-3"
+    title: "OpenSourceImaging Wiki"
+    image:  osi.jpg
+    description: From the community for the community
+    url: https://github.com/mrathon/idea-pitches/issues/3
+
+  - id: "p-4"
+    title: "Interactive Tutorials"
+    image:  inttut.gif
+    description: Interactive tutorials using Jupyter Notebooks.
+    url: https://github.com/mrathon/idea-pitches/issues/2
+    
+  - id: "p-5"
+    title: "hMRI-toolbox"
+    image:  hmri.jpg
+    description:  An easy-to-use open-source and flexible tool for qMRI data handling and processing.
+    url: https://github.com/mrathon/idea-pitches/issues/5
+
+  - id: "p-6"
+    title: "hMRI-toolbox"
+    image:  mrhub.png
+    description:  Draft an example of what that website might look like - and how it would work.
+    url: https://github.com/mrathon/idea-pitches/issues/6
+
+  - id: "p-7"
+    title: "DWI visualization"
+    image:  dwi.jpg
+    description: Developing some functions for DWI, streamlines and surfaces rendering with VTK in python. See FURY and DIPY project.  
+    url: https://github.com/mrathon/idea-pitches/issues/7    
