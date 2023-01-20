@@ -9,13 +9,16 @@ titleclr: '#428bca'
 
 # A hackathon for comparable MRI
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. From scanner to publication.</p>
 
 <br><br>
+<center><h4>Comparable MRI</h4></center>
 
-<p style ="text-align: center; font-style: italic; font-size:18px;"><a href="https://www.gnu.org/philosophy/hackathons.en.html" target="blank">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman</a></p> 
+ <p>This year's MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring consistency and comparability in MRI measurements. This includes efforts in image acquisition, reconstruction, post-processing, and publication.</p>
+ 
+ <center><h4>A sprint to push boundaries, not necessarily for code, but for collective creativity.</h4></center>
 
-<center><p style ="text-align: center; font-weight: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
+ <p>Even though we do not anticipate an intense coding marathon after a busy ISMRM annual meeting, those who would like to work on a coding project are welcome to submit their project idea for making MRI reproducible!</p>
 
 <br><br>
 
