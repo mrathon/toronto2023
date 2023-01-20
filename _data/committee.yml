@@ -1,66 +1,26 @@
 people:
-  - name: "Nikola Stikov"
-    image:  NikolaStikov.jpg
-    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
-    twitter: https://twitter.com/Stikov
-    linkedin: #
-    researchgate: #
-  - name: "Lukas Winter"
-    image:  LukasWinter.jpg
-    affiliation: Physikalisch Technische Bundesanstalt (PTB) Berlin <br> OpenSourceImaging.org 
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Joshua Trzasko"
-    image:  JoshuaTrzasko.jpg
-    affiliation: Mayo Clinic
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Adrienne Campbell-Washburn"
-    image:  AdrienneCampbellWashburn.jpg
-    affiliation: National Institute of Health
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Daniel Ennis"
-    image:  DanielEnnis.jpg
-    affiliation: Stanford University
-    linkedin: #
-    researchgate: #
-  - name: "Joao Periquito"
-    image:  JoaoPeriquito.jpg
-    affiliation: Max-Delbrück Center for Molecular Medicine (MDC) Berlin, OpenSourceImaging.org 
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Ruben Pellicer"
-    image:  RubenPellicer.jpg
-    affiliation: Center for Advanced Imaging Brisbane, OpenSourceImaging.org 
-    twitter: #
-    linkedin: #
-    researchgate: #
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
-    affiliation: École Polytechnique de Montréal
+    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Tommy Boshkovski"
-    image:  TommyBoshkovski.jpg
+  - name: "Nadia Blostein"
+    image:  NadiaBlostein.jpg
     affiliation: École Polytechnique de Montréal
     twitter: #
     linkedin: #
     researchgate: #
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
-    affiliation: Montreal Heart Institute, University of Montréal
+    affiliation: École Polytechnique de Montréal
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Tanguy Duval"
-    image:  TanguyDuval.jpg
-    affiliation: French Institute of Health and Medical Research
-    twitter: #
+  - name: "Nikola Stikov"
+    image:  NikolaStikov.jpg
+    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
+    twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
+
