@@ -26,16 +26,6 @@ titleclr: '#428bca'
 
 <br><br>
 
-<div class="row partners">
-{% for item in site.data.projects.projects %}
-  <div class="col s12 partner valign">
-    <h4 style="color: #486a89; text-align: left"> {{ item.title }}  </h4>
-    <a href="{{ item.url }}" target="blank"><img src="img/projects/{{ item.image }}"/></a>
-    
-  </div>
-  {% endfor %}
-  </div>
-
 
 
 
