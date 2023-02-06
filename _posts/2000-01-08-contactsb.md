@@ -1,0 +1,12 @@
+---
+title: "SPONSORS"
+bg: clrnew
+color: about
+fa-icon: history
+iconclr: '#4f7c80'
+titleclr: '#4f7c80'
+---
+
+<div class="panel">
+  <center><iframe src="https://mrathon.github.io/" width="640" height="1982" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></center>
+</div>
