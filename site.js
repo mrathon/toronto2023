@@ -96,7 +96,7 @@ $(document).ready(function (){
   // Carrousel settings
   $(document).ready(function(){
     $('.partners').slick({
-      slidesToShow: 2,
+      slidesToShow: 4,
       slidesToScroll: 2,
       autoplay: true,
       arrows: true,
@@ -105,8 +105,8 @@ $(document).ready(function (){
       {
         breakpoint: 976,
         settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
+          slidesToShow: 4,
+          slidesToScroll: 6
         }
       }]
     });

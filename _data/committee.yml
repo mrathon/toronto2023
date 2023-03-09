@@ -23,4 +23,38 @@ people:
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
+speakers:
+  - name: "Adrienne Campbell-Washburn"
+    image:  AdrienneCampbellWashburn.jpg
+    affiliation: National Institutes of Health
+    twitter: #
+    linkedin: #
+  - name: "Jon-Fredrik Nielsen"
+    image:  jfn.jpg
+    affiliation: University of Michigan
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Maxim Zaitsev"
+    image:  mz.jpg
+    affiliation: University of Freiburg
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Mark Griswold"
+    image:  mg.jpg
+    affiliation: Case Western Reserve University
+    twitter: #
+    linkedin: #
+  - name: "Georg Oeltzschner"
+    image:  go.jpg
+    affiliation: Johns Hopkins Medicine
+    twitter: #
+    linkedin: #
+  - name: "Krishna Nayak"
+    image:  kn.jpg
+    affiliation: USC Viterbi School of Engineering
+    twitter: #
+    linkedin: #
+
 
