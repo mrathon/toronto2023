@@ -26,6 +26,20 @@ titleclr: '#428bca'
 
 <br><br>
 
+{% for person in site.data.committee.speakers %}
+<div class="col-md-4">
+<center>
+<div class="team-player">
+    <img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:194px;height:194px;border-radius: 50%;">
+    <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
+        <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
+    </h4>
+    <p class="description" style="color: #ffffff;"> {{ person.affiliation }}</p>
+</div>
+</center>
+</div>
+  {% endfor %}
+
 
 
 
