@@ -20,7 +20,7 @@ titleclr: '#428bca'
  <p style ="text-align: center;  font-size:20px;"> Each day of the event will kick off with presentations from experts who specialize in implementing cutting-edge research into open-source projects.</p>
 
 <div class="team" style="margin-top:10px;">
-<div class="row">
+<div class="row" style="justify-content:center;">
 {% for person in site.data.committee.speakers %}
 <div class="col-sm-2">
 <center>

@@ -56,5 +56,15 @@ speakers:
     affiliation: USC Viterbi School of Engineering
     twitter: #
     linkedin: #
+  - name: "Matthias Günther"
+    image:  mgu.jpg
+    affiliation: Fraunhofer Institute for Digital Medicine
+    twitter: #
+    linkedin: #    
+  - name: "Rita G. Nunes"
+    image:  rn.jpg
+    affiliation: Universidade de Lisboa
+    twitter: #
+    linkedin: #  
 
 

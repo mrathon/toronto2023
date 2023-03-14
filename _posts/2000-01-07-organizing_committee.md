@@ -8,7 +8,7 @@ titleclr: wednesday
 ---
 
 <div class="team">
-<div class="row">
+<div class="row" style="justify-content:center;">
 
 {% for person in site.data.committee.people %}
 <div class="col-md-4">
