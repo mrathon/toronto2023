@@ -66,5 +66,10 @@ speakers:
     affiliation: Universidade de Lisboa
     twitter: #
     linkedin: #  
+  - name: "E. Mark Haacke"
+    image:  mh.png
+    affiliation: SpinTech MRI
+    twitter: #
+    linkedin: #      
 
 
