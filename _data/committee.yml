@@ -41,8 +41,8 @@ speakers:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Mark Griswold"
-    image:  mg.jpg
+  - name: "Rasim Boyacioglu"
+    image:  rb.jpg
     affiliation: Case Western Reserve University
     twitter: #
     linkedin: #
@@ -70,6 +70,11 @@ speakers:
     image:  mh.png
     affiliation: SpinTech MRI
     twitter: #
-    linkedin: #      
+    linkedin: #
+  - name: "Ahsan Javed"
+    image:  aj.jpeg
+    affiliation: National Institutes of Health
+    twitter: #
+    linkedin: #
 
 

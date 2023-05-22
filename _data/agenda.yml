@@ -1,50 +1,45 @@
 saturday1:
-  - title: "Breakfast"
-    time:  10h-11h
-    place: CSI Spadina Suite 101
+  - title: "Hangover Brunch"
+    time:  11h-12h
+    place: The Don on Danforth
     image: breakfast.png
-    text:  Take a late breakfast, don't be hasty, <br> Let your body recover from the ISMRM party!
-  - title: "Welcome"
-    time: 11h-12:30h
-    place: CSI Spadina Suite 101
+    text:  Take a late breakfast, don't be hasty, <br> Let your body recover from the Highlights party!
+  - title: "Talks: Part 1"
+    time: 12h-13:30h
+    place:  The Don on Danforth
     image: welcome.png
     text:  Let's begin the day with champions of open source,<br> Get inspired by their talks and let enthusiasm run its course.
-  - title: "Lunch"
-    time: 12:30h-13:30h
-    place: CSI Spadina Suite 101
-    image: lunch.png
-    text:  Too many ideas, if your brain's in a crunch, <br> You must be hungry, time to have some lunch!
   - title: "Pitch session"
     time:  13:30h-14h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: present.png
     typeform: https://github.com/mrathon/idea-pitches/issues/new/choose
     text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
     time:  14h-16h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: hack.png
     text: If you've found your project or formed a team, <br> Let the code fill your screen, like a dev's dream. <br> Time is short, but your skills are fit, <br> You can do it, just git add & commit.
 
 monday:
   - title: "Breakfast"
     time:  9h-10h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: breakfast2.png
     text:  This is the second breakfast, the last hackathon day, <br> You've achieved a ton, don't let it sway! <br> Feed your brain for one last round, <br> Caffeinate yourself to stand your ground!
-  - title: "Talks"
+  - title: "Talks: Part 2"
     time:  10h-11h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: catch.png
     text:  It's time to hear from the experts and learn, <br> The benefits of open-source, it's your turn, <br> To motivate yourself to go that extra mile, <br> And get the recognition you deserve with style.
   - title: "Hack-eat-hack"
     time:  11h-15h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: hack2.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong!
   - title: "Wrap up"
     time:  16h-17h
-    place: CSI Spadina Suite 101
+    place:  The Don on Danforth
     image: final.png
     text: Somebody told me your code has a back-end <br> And even a front-end <br> That you coded in MRathon this year <br> It's not confidential, you've got potential <br> So show us what you've done!
   - title: "Social"

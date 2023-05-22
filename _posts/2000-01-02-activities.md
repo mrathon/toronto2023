@@ -43,3 +43,4 @@ titleclr: '#428bca'
 
  <p style ="text-align: center;  font-size:20px;">Even though we do not anticipate an intense coding marathon after a busy ISMRM annual meeting, those who would like to work on a coding project are welcome to submit their project idea for making MRI reproducible!</p>
 </center>
+

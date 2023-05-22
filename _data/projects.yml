@@ -42,3 +42,24 @@ projects2:
     description: n/a
     url: https://ismrm.github.io/mrpub/
 
+projects3:
+  - id: "p-8"
+    title: "Pulseq-QA"
+    image:  pulseq.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/12
+  - id: "p-9"
+    title: "Gadgetron Starter"
+    image:  gadget.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/13
+  - id: "p-10"
+    title: "PyPulseq"
+    image:  pypulseq.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/14
+  - id: "p-11"
+    title: "MRM Code Review"
+    image:  mrmrev.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/15
