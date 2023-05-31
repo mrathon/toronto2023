@@ -28,12 +28,12 @@ monday:
     image: breakfast2.png
     text:  This is the second breakfast, the last hackathon day, <br> You've achieved a ton, don't let it sway! <br> Feed your brain for one last round, <br> Caffeinate yourself to stand your ground!
   - title: "Talks: Part 2"
-    time:  10h-11h
+    time:  10h-12h
     place:  The Don on Danforth
     image: catch.png
     text:  It's time to hear from the experts and learn, <br> The benefits of open-source, it's your turn, <br> To motivate yourself to go that extra mile, <br> And get the recognition you deserve with style.
   - title: "Hack-eat-hack"
-    time:  11h-15h
+    time:  12h-16h
     place:  The Don on Danforth
     image: hack2.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong!
