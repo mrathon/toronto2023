@@ -3,12 +3,12 @@ projects1:
     title: "Virtual Scanner"
     image:  vscan.jpg
     description: n/a
-    url: www.github.com/imr-framework/virtual-scanner
+    url: https://www.github.com/imr-framework/virtual-scanner
   - id: "p-2"
     title: "muscle-BIDS"
     image:  mskbids.jpg
     description: n/a
-    url: www.github.com/imr-framework/virtual-scanner
+    url: https://www.github.com/imr-framework/virtual-scanner
   - id: "p-3"
     title: "Pulseq"
     image:  pulseq.png
