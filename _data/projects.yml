@@ -8,7 +8,7 @@ projects1:
     title: "muscle-BIDS"
     image:  mskbids.jpg
     description: n/a
-    url: https://www.github.com/imr-framework/virtual-scanner
+    url: https://muscle-bids.github.io
   - id: "p-3"
     title: "Pulseq"
     image:  pulseq.png
@@ -30,7 +30,7 @@ projects2:
     title: "NeuroLibre"
     image:  nl.png
     description: n/a
-    url: https://muscle-bids.github.io
+    url: https://neurolibre.org/
   - id: "p-6"
     title: "VENUS"
     image:  venus_logo.png
